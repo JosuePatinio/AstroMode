@@ -1,7 +1,7 @@
 ## Patiño Magaña Josue Emmanuel
 # Proyecto AstroMode
 
-![prueba](https://github.com/user-attachments/assets/f480165f-1081-484d-848b-d38006ff044e)
+![AstroMode Logo](https://github.com/user-attachments/assets/e5508291-b26f-4959-a937-3dd65e9f1ad7)
 
 
 Una plataforma innovadora para la venta de ropa.
